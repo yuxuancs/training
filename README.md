@@ -25,34 +25,34 @@ The following advanced user stories are optional: Stretch Challenges - Advanced 
 
 Here's a walkthrough of implemented user stories:
 
-Challenge 0 - SQL Injection:
+# Challenge 0 - SQL Injection:
 <img src='1.gif' title='Challenge 0 - SQL Injection' width='' alt='Challenge 0 - SQL Injection' />
 
-Challenge 1 - SQL Injection 1:
+# Challenge 1 - SQL Injection 1:
 <img src='2.gif' title='Challenge 1 - SQL Injection 1' width='' alt='Challenge 1 - SQL Injection 1' />
 
-Challenge 2 - SQL Injection 2:
+# Challenge 2 - SQL Injection 2:
 <img src='3.gif' title='Challenge 2 - SQL Injection 2' width='' alt='Challenge 2 - SQL Injection 2' />
 
-Challenge 3 - SQL Injection Escaping:
+# Challenge 3 - SQL Injection Escaping:
 <img src='4.gif' title='Challenge 3 - SQL Injection Escaping' width='' alt='Challenge 3 - SQL Injection Escaping' />
 
-Challenge 4 - SQL Injection 3:
+# Challenge 4 - SQL Injection 3:
 <img src='5.gif' title='Challenge 4 - SQL Injection 3' width='' alt='Challenge 4 - SQL Injection 3' />
 
-Stretch Challenges - Advanced SQL Injection: SQL Injection 4:
+# Stretch Challenges - Advanced SQL Injection: SQL Injection 4:
 <img src='6.gif' title='SQL Injection 4' width='' alt='SQL Injection 4' />
 
-Stretch Challenges - Advanced SQL Injection: SQL Injection 5:
+# Stretch Challenges - Advanced SQL Injection: SQL Injection 5:
 <img src='7.gif' title='SQL Injection 5' width='' alt='SQL Injection 5' />
 
-Stretch Challenges - Advanced SQL Injection: SQL Injection Stored Procedure:
+# Stretch Challenges - Advanced SQL Injection: SQL Injection Stored Procedure:
 <img src='8.gif' title='SQL Injection Stored Procedure' width='' alt='SQL Injection Stored Procedure' />
 
-Stretch Challenges - Advanced SQL Injection: SQL Injection 6:
+# Stretch Challenges - Advanced SQL Injection: SQL Injection 6:
 <img src='9.gif' title='SQL Injection 6' width='' alt='SQL Injection 6' />
 
-Stretch Challenges - Advanced SQL Injection: SQL Injection 7:
+# Stretch Challenges - Advanced SQL Injection: SQL Injection 7:
 <img src='10.gif' title='SQL Injection 7' width='' alt='SQL Injection 7' />
 
 
